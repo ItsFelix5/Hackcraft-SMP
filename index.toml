@@ -1,6 +1,50 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/cameratweaks.json5"
+hash = "0a1ab061395b189709c00a9bf8b671dc04abf5c9847ad51a862b010f57dc47fa"
+
+[[files]]
+file = "config/enchancement.json"
+hash = "ac654756ecc873fbb8341c1acdff4a922df7768e4c044a19a7afae254b4ac765"
+
+[[files]]
+file = "config/gravestones.json"
+hash = "a6e1aa27c3f0abc8468c9c5b132774604b17eaa39e08f74abe65bfc20cb6af23"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "3c0ea73e89c7118ac6c74a783662c876f8998649db51f6ce0a60fb4b5c2ca693"
+
+[[files]]
+file = "config/servercore/config.yml"
+hash = "0e701a0ce43e876d22ff0c9d7b8f7eff7288d67ab7858f4edb583ffb8d9e36c8"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "b652ce75a0649d891aaa8351fb212801b8a15b701545760187032dfac24c00b9"
+
+[[files]]
+file = "config/stfu.json5"
+hash = "d7ee41ed7e260ecc9d8bd8d08b4d9ea1a3dded3ac93b351bf8b524b2d70e3fad"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "9f4afef6c3307c3b418d9b897b912c7cbd33eacbceafd3a78c5f1abafc77f4b8"
+
+[[files]]
+file = "datapacks/EnchantingTableAdder/data/minecraft/tags/enchantment/non_treasure.json"
+hash = "b3b4b8aeb49c46d5194c88e51cbb3b95614d57c423a71f627a73b384bded4001"
+
+[[files]]
+file = "datapacks/EnchantingTableAdder/data/minecraft/tags/enchantment/treasure.json"
+hash = "10446d9c574f2886e8950e1950c7631d08eafed8b3faa45a2a6ce59d33081e63"
+
+[[files]]
+file = "datapacks/EnchantingTableAdder/pack.mcmeta"
+hash = "a5c86b2b2cab6c93d5d479159633097ffeee9c5395a8be4655de0e3f9f1a7b63"
+
+[[files]]
 file = "mods/a.b.e.-forgery.pw.toml"
 hash = "4155f5dc3e39acb05bef01925da8fc268d9cb984bf38284609a929f334ae1ce4"
 metafile = true
@@ -426,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/x-backup.pw.toml"
-hash = "1c3ed0ff8fb7b66644ae8379bba4e47e69ef691994551ddbafc0ad21efe1815a"
+hash = "0a91a37f8f3b49d797e1c5e33ba463ead981e5da5a6f3bca0990f25b0d44f7d9"
 metafile = true
 
 [[files]]
@@ -443,3 +487,11 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "ea0eb6ab539b43926503901694913866aa81a9a644cd3469080214a7ca785db2"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "c2999130bc09fe486002cbd5751f51d0b1ec5251819f807647581046060ac9e8"
+
+[[files]]
+file = "servers.dat"
+hash = "a989f7f03a8fe8ad7404d9bdc4a3365658c6ce98a36dd0920fd9c77fe6b10b46"
