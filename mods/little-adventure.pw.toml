@@ -1,0 +1,13 @@
+name = "Little Adventure"
+filename = "littleadventure-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fPKwuUVC/versions/kn0CtJnp/littleadventure-1.0.0.jar"
+hash-format = "sha512"
+hash = "8dcaa03d65a8746f7c3638374c09c37d1d53bf52e802124636a0be83446f3c05dc11f4c3f22ff270c211020848e1f5178d4de8b935d36fd1f8cd5e279b2d2dff"
+
+[update]
+[update.modrinth]
+mod-id = "fPKwuUVC"
+version = "kn0CtJnp"
