@@ -274,11 +274,6 @@ hash = "a63765eb780a36cd968e2777d2c20bea5e5ca3ccdd920e64964e3746cf2a7f0d"
 metafile = true
 
 [[files]]
-file = "mods/little-adventure.pw.toml"
-hash = "8500de8ae97cf775940520756edfef244c823d050b23aa14a110798976c70965"
-metafile = true
-
-[[files]]
 file = "mods/magworm.pw.toml"
 hash = "3e14e39a5d6f2bbd3c73619168330000bd447271b669099246d5606351f33572"
 metafile = true
