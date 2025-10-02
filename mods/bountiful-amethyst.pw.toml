@@ -1,0 +1,13 @@
+name = "Bountiful Amethyst"
+filename = "bountiful-amethyst-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pWxBSqUA/versions/rBchekT9/bountiful-amethyst-0.1.1.jar"
+hash-format = "sha512"
+hash = "6ab7109abf16ba25101933d0bc9dc884b42d9b75e080e520ad1229f0ab0bced22d5c34396ea90fc72529c8a2ced76d708f80926123cafc3d3f3af9e990e4fa62"
+
+[update]
+[update.modrinth]
+mod-id = "pWxBSqUA"
+version = "rBchekT9"

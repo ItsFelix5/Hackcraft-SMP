@@ -1,0 +1,13 @@
+name = "Tiny Terrors"
+filename = "tiny-terrors-1.0.3+1.21.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RpKPCJcY/versions/vXi7dfvc/tiny-terrors-1.0.3%2B1.21.8.jar"
+hash-format = "sha512"
+hash = "1b79115c3ec27b9718d134c927436aae1d8ba6a66be6ab766c9c844e9da5a4971ea519783fcb34325b9ffb95634c18ab7024847e60602232e7e4c39834709597"
+
+[update]
+[update.modrinth]
+mod-id = "RpKPCJcY"
+version = "vXi7dfvc"

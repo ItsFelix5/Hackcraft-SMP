@@ -1,0 +1,13 @@
+name = "Echoes of the Void"
+filename = "echoesofthevoid-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xq8EtmVw/versions/c5ZpemYd/echoesofthevoid-1.0.0.jar"
+hash-format = "sha512"
+hash = "0782f3cab7db041c7dbcce1f6541f4564d31fe1c8e86023eaf8d86a66849daac7887b9d873634775f76adb23e390524aff327664d556d33afbe0eb5698cd6222"
+
+[update]
+[update.modrinth]
+mod-id = "xq8EtmVw"
+version = "c5ZpemYd"

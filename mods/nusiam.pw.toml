@@ -1,0 +1,13 @@
+name = "Nusiam"
+filename = "nusiam-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xIR6VAre/versions/Ci619N8O/nusiam-1.0.0.jar"
+hash-format = "sha512"
+hash = "a2f7cd17c2119d4e6037d571a36d1fd54faeab49ea174e45c887e0f075d5854bd243d838ad07bb53ab540fa8e1c53d58ede72213f673f68e964a73e45cf97571"
+
+[update]
+[update.modrinth]
+mod-id = "xIR6VAre"
+version = "Ci619N8O"

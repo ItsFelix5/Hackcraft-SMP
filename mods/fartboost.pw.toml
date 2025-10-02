@@ -1,0 +1,13 @@
+name = "FartBoost"
+filename = "fartboost-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KVX4p3B8/versions/yOnJ3mVJ/fartboost-1.0.0.jar"
+hash-format = "sha512"
+hash = "44ea28895d6bf02881b719a039938b23f96e141fcc335ae5698378d4e526176011c11cde167a70149c843d1b2d31cb0a9a57b97676103fbfa61cbf486cd95df1"
+
+[update]
+[update.modrinth]
+mod-id = "KVX4p3B8"
+version = "yOnJ3mVJ"

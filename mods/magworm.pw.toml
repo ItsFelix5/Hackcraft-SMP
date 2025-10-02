@@ -1,0 +1,13 @@
+name = "Magworm"
+filename = "magworm-RELEASE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iGxaCL3U/versions/XkYxdm82/magworm-RELEASE.jar"
+hash-format = "sha512"
+hash = "9dd59d12ff4a4f65e420115595693654970d0a8a8411fd061d2d527d14bbd79014599b5a4bd0662b6fb45d4ceab869ea98e3fa74e352cf66eb51266731674d41"
+
+[update]
+[update.modrinth]
+mod-id = "iGxaCL3U"
+version = "XkYxdm82"

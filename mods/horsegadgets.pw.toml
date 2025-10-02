@@ -1,0 +1,13 @@
+name = "HorseGadgets"
+filename = "horsegadgets-0.3.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uqNbr6DN/versions/Fyt9XrtU/horsegadgets-0.3.12.jar"
+hash-format = "sha512"
+hash = "de2825f96553ca0321a8cc55a2555e09ea436c7d94c28aced2d1d7a303a434177a852550e979b92bdf6fa58bcb28c0b4b6f052f789f62228d28224d7561e86b1"
+
+[update]
+[update.modrinth]
+mod-id = "uqNbr6DN"
+version = "Fyt9XrtU"

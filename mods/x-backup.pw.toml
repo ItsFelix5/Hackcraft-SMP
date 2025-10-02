@@ -1,0 +1,13 @@
+name = "X Backup"
+filename = "x-backup-0.3.14+1.21.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/zJ4gyF5J/versions/6XBScrey/x-backup-0.3.14%2B1.21.6.jar"
+hash-format = "sha512"
+hash = "75d3f87107824b371a060884e47e5d12e8489b569fe25245bd5d5d42c834d82bb14d46371630536bfdd78edadb77df290b8e9e799363cb44243a2670ba66f3f9"
+
+[update]
+[update.modrinth]
+mod-id = "zJ4gyF5J"
+version = "6XBScrey"

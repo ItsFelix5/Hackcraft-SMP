@@ -1,0 +1,13 @@
+name = "BetterMinecarts"
+filename = "BetterMinecarts-1.0-SNAPSHOT.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/FFyrBrrG/versions/t3ZjJvV5/BetterMinecarts-1.0-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "e6178ebe01ea71a62034d2fc0afca74885cc1602396dbc97ea437513fee6462b11a3a68efb6ee5541673291700722a549323372b43f740e69e040c2307e3bb21"
+
+[update]
+[update.modrinth]
+mod-id = "FFyrBrrG"
+version = "t3ZjJvV5"

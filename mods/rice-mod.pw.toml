@@ -1,0 +1,13 @@
+name = "Rice"
+filename = "rice-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W7eokfwY/versions/s9pAkFQR/rice-1.0.0.jar"
+hash-format = "sha512"
+hash = "4508174e9d6a02b5a17ad1c57c3f803abb22f363707608723a5f055df3b9a5164a86106f8bae05cd0dc97ec8423402d6052b41fb3a25f48650c5e3ed1a6337e5"
+
+[update]
+[update.modrinth]
+mod-id = "W7eokfwY"
+version = "s9pAkFQR"

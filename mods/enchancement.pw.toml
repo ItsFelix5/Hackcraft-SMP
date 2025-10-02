@@ -1,0 +1,13 @@
+name = "Enchancement"
+filename = "enchancement-1.21.8-r5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6hN1V6wJ/versions/6eTpB23m/enchancement-1.21.8-r5.jar"
+hash-format = "sha512"
+hash = "c7690c09c01a3facc59f3e8902be47db66812c4a24a0aa0f0757721d525c1a8cf19fa1969cf5768c343af34c9f476e23241306bd4cdadcd3cd9d5f6d13e8b3f4"
+
+[update]
+[update.modrinth]
+mod-id = "6hN1V6wJ"
+version = "6eTpB23m"

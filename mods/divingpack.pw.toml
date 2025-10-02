@@ -1,0 +1,13 @@
+name = "DivingPack"
+filename = "divingpack-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7fz2VqWz/versions/cpf3vDoJ/divingpack-2.0.0.jar"
+hash-format = "sha512"
+hash = "44c9892451efc8e1a24a1691ee414eb80448b0dae438e8fd6492053e5afb02770681382a85190a485fd09fad3fa2e6ac09293ad867eebc442c8477bab84d4526"
+
+[update]
+[update.modrinth]
+mod-id = "7fz2VqWz"
+version = "cpf3vDoJ"

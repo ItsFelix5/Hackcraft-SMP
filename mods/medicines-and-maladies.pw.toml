@@ -1,0 +1,13 @@
+name = "Medicines & Maladies"
+filename = "medicines-and-maladies-0.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DkETTWK0/versions/mlihgZOk/medicines-and-maladies-0.1.0.jar"
+hash-format = "sha512"
+hash = "b0d5b61f8465111a8f4ec3669c9bd5c74b9b1f65c826b622426df8eca71eadce41b7268fa65ef245caad3fe43e2103e69e30775418f78bd4689e65159315fdd1"
+
+[update]
+[update.modrinth]
+mod-id = "DkETTWK0"
+version = "mlihgZOk"

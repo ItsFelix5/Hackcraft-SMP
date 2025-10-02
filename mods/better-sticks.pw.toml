@@ -1,0 +1,13 @@
+name = "Better Sticks"
+filename = "BetterSticks-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yZU5clae/versions/4o5H2dXR/BetterSticks-1.0-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "60df867d325f71f4f28efb695790f95911fb992087908a22c67d5359b8296978ace59c594075fbbf5366b4cf6446ff4770f8294d959b5262da9a3397431d3cab"
+
+[update]
+[update.modrinth]
+mod-id = "yZU5clae"
+version = "4o5H2dXR"

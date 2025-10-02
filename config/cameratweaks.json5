@@ -1,0 +1,38 @@
+{
+	disableFog: true,
+	fullbright: false,
+	nightVisionFullbright: false,
+	alternateFreecam: false,
+	zoomAnimation: true,
+	cloudHeight: 192,
+	thirdPersons: [
+		{
+			enabled: true,
+			key_code: -1,
+			x_offset: 5.0,
+			y_offset: 0.0,
+			z_offset: 0.0,
+			pitch: 0.0,
+			yaw: 0.0,
+			changed_fov: false,
+			fov: 0,
+			rotate_player: false,
+			invert: false,
+			collision: true
+		},
+		{
+			enabled: false,
+			key_code: -1,
+			x_offset: 4.0,
+			y_offset: 0.0,
+			z_offset: 0.0,
+			pitch: 0.0,
+			yaw: 0.0,
+			changed_fov: false,
+			fov: 0,
+			rotate_player: true,
+			invert: true,
+			collision: true
+		}
+	]
+}

@@ -1,0 +1,13 @@
+name = "Convenient Enchantments"
+filename = "simple-enchantments-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rUCuttah/versions/Xg8C4vFm/simple-enchantments-1.0.0.jar"
+hash-format = "sha512"
+hash = "7ff2efa2cba3454074d4cde1bad381463de473b3d0ed675c9e3ab17ebb069c2eaa15e4f37f46012a5a7726520a56489a23d9d8e6f378f0db5920ba185cf1274b"
+
+[update]
+[update.modrinth]
+mod-id = "rUCuttah"
+version = "Xg8C4vFm"

@@ -1,0 +1,13 @@
+name = "My golden tools mod"
+filename = "my-golden-tools-mod-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7moyAtKh/versions/AA5GrbJN/my-golden-tools-mod-1.0.1.jar"
+hash-format = "sha512"
+hash = "97a32e14417c5d749f58d0d6c1dcd42e901c8253105a499de28a5507ceb5e8c1211a8dd5bc05013ecf7e8f2199df5283942877bdf640e7d7003291a984c45fe9"
+
+[update]
+[update.modrinth]
+mod-id = "7moyAtKh"
+version = "AA5GrbJN"

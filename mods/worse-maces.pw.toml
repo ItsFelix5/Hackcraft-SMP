@@ -1,0 +1,13 @@
+name = "Worse Maces"
+filename = "1.0-worse-maces-1.21.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nZzHc9TC/versions/r4QHZ52R/1.0-worse-maces-1.21.8.jar"
+hash-format = "sha512"
+hash = "bfabc893d15fcb6720cc0898f7c3a679f308288d94d61f745ffc1e212407f6d953bb52d95a515a00b2d100d789c0a3a4d1132e2bc522e3c77fa1a7fadaa44a7a"
+
+[update]
+[update.modrinth]
+mod-id = "nZzHc9TC"
+version = "r4QHZ52R"

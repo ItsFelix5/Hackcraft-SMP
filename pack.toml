@@ -1,0 +1,12 @@
+name = "Hackcraft"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "69db37fb22cf652e8138b7bb6042bd62c657509278d5d5c8072b473de9293859"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.8"

@@ -1,0 +1,13 @@
+name = "Felix's rats"
+filename = "Felix's rats-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZNU4679s/versions/VzzXWmwt/Felix%27s%20rats-1.1.jar"
+hash-format = "sha512"
+hash = "7e122bb0ebf3efa543d2e4f808e4102d2e83e86ffec6dd82c020f83f59248aaf742f936caa568d6fb91926abbde5138de4df15407f833a876c9357495663e8e3"
+
+[update]
+[update.modrinth]
+mod-id = "ZNU4679s"
+version = "VzzXWmwt"

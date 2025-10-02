@@ -1,0 +1,13 @@
+name = "Upgraded Food"
+filename = "upgraded_food_minecraft-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/NIBfInI8/versions/XPCMzyCs/upgraded_food_minecraft-1.1.jar"
+hash-format = "sha512"
+hash = "5fad4d1204d2743c4c10c9407f2ded33f5afbf592e36ebf73e3a319160a31796a64144b8c9600f9f561fd239bae8d5aefad0d963476c8aca4bb425a7b2fa5be8"
+
+[update]
+[update.modrinth]
+mod-id = "NIBfInI8"
+version = "XPCMzyCs"

@@ -1,0 +1,13 @@
+name = "Camera Tweaks"
+filename = "CameraTweaks-1.9.4-1.21.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/T1E4i1qj/versions/axDwHEQt/CameraTweaks-1.9.4-1.21.8.jar"
+hash-format = "sha512"
+hash = "0d8f3eefd6b274023232415eafea3fd476af196c06ccc5718895676a89ea4ffe076fa0001d35c3ea7b382fbb0f560ebf4162d803bd92f1420d75542f989657c2"
+
+[update]
+[update.modrinth]
+mod-id = "T1E4i1qj"
+version = "axDwHEQt"

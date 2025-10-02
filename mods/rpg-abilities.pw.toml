@@ -1,0 +1,13 @@
+name = "RPG Abilities"
+filename = "rpgclassabilities-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dsm93M59/versions/9Y4jdioU/rpgclassabilities-1.0.jar"
+hash-format = "sha512"
+hash = "a599af7175c0a8349723a0fc4dbf52d14b7fe9fab38c671fc07c2243ceb149c723a6a097eb85b667f2e392a18bab30ca40100a87e74b730728c04a1e3487ceed"
+
+[update]
+[update.modrinth]
+mod-id = "dsm93M59"
+version = "9Y4jdioU"

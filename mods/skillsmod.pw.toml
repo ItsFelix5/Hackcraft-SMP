@@ -1,0 +1,13 @@
+name = "SkillsMod"
+filename = "skillsmod-0.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DZYk9jql/versions/849sR6r6/skillsmod-0.6.0.jar"
+hash-format = "sha512"
+hash = "e1c6707670430e7c5e7fa993f0e7431c0d468f0f8033530dc491a09de63839b10142b864f5441a095402189e0337f2984a88a18de5827c42ae42c8a5bcb948f2"
+
+[update]
+[update.modrinth]
+mod-id = "DZYk9jql"
+version = "849sR6r6"

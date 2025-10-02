@@ -1,0 +1,13 @@
+name = "Flattering Anvils"
+filename = "FlatteringAnvils-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vmETvvMS/versions/vSVWDw6C/FlatteringAnvils-1.0.jar"
+hash-format = "sha512"
+hash = "efaf614def08f212231e0433873214148697874afc54f757a00008574e23f37f64c159dba931dff94e7009307bab87d18e41e748cd798a19cc988967a0fb3274"
+
+[update]
+[update.modrinth]
+mod-id = "vmETvvMS"
+version = "vSVWDw6C"

@@ -1,0 +1,13 @@
+name = "Dutch Foods 'n Stuff"
+filename = "dutchfoodsnstuff-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eZcPcpaO/versions/ukDmskyB/dutchfoodsnstuff-1.1.7.jar"
+hash-format = "sha512"
+hash = "cbb3b8e9f9b75b096b2a74e4ad3d2e03b74efc94af4c40335c906eeaf2a03400e49fe900efee02ac213266a71b53b68f91a1263efd3c57e972a8274a3e8f551e"
+
+[update]
+[update.modrinth]
+mod-id = "eZcPcpaO"
+version = "ukDmskyB"

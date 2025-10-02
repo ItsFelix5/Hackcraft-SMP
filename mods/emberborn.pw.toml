@@ -1,0 +1,13 @@
+name = "emberborn"
+filename = "emberborn-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EB5vxy6L/versions/SxKtdUBO/emberborn-1.3.0.jar"
+hash-format = "sha512"
+hash = "24b97308486e97a090d8d5c95499ce74ddeb191ac54379c5f74d9ba66ccd1c48030ec1afba9444c00880c4107f20dce2c400898e6c418c92ea948a798064f8e1"
+
+[update]
+[update.modrinth]
+mod-id = "EB5vxy6L"
+version = "SxKtdUBO"

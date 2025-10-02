@@ -1,0 +1,13 @@
+name = "Quick F3"
+filename = "quick-f3-1.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZupxVJvg/versions/rJnW2Fla/quick-f3-1.0.4.jar"
+hash-format = "sha512"
+hash = "cbf55ab524620e98d6a4d94fcde94efba83185c023ca50dc765f83df04c03ec0817242fc9673ebcef8af133025c504a8e4e96da8e3273dbfeb2932184f6a265a"
+
+[update]
+[update.modrinth]
+mod-id = "ZupxVJvg"
+version = "rJnW2Fla"

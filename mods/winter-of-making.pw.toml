@@ -1,0 +1,13 @@
+name = "Winter of Making"
+filename = "winter-of-making-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KwPnMRIq/versions/hRdl4JOn/winter-of-making-1.0.0.jar"
+hash-format = "sha512"
+hash = "b39326247e4878c14c6230644e8121cd6e03ee8d693e2cb0b3241df27c856bbff9de8c4cdc9a68c98e33a79db19324ddea31a5b05d3058f95f131b117eb78ee4"
+
+[update]
+[update.modrinth]
+mod-id = "KwPnMRIq"
+version = "hRdl4JOn"

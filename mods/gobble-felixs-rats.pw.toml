@@ -1,0 +1,13 @@
+name = "Gobble Felix's Rats"
+filename = "gobble-rats-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1XJJQrwn/versions/MyF67jnE/gobble-rats-1.0.0.jar"
+hash-format = "sha512"
+hash = "c84547fba5975b527c8cdcbeead1ef9ea7a758b9ee130eeadcafd3bc11d4505ea44d33d0baf3440becdd2fbaf72b99f473c1555d69c166b642870262aecfeae8"
+
+[update]
+[update.modrinth]
+mod-id = "1XJJQrwn"
+version = "MyF67jnE"

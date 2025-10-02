@@ -1,0 +1,13 @@
+name = "Totemicy"
+filename = "blimbo-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/88IxlsyT/versions/5S561SrL/blimbo-1.5.jar"
+hash-format = "sha512"
+hash = "1cb5a90157fc433bdb75de86e5a807883711568a2bdd168f6338ff3daeed315aa2e63cbf248514ebe23dc3c20c95b5b77a775719eac72d4557b3e406b263572f"
+
+[update]
+[update.modrinth]
+mod-id = "88IxlsyT"
+version = "5S561SrL"

@@ -1,0 +1,13 @@
+name = "Shooting Stars"
+filename = "shootingstars-v0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qYnhCSW5/versions/UjtRhuCt/shootingstars-v0.0.1.jar"
+hash-format = "sha512"
+hash = "34be36bce34806357fbb1976bfb6b1fc38e5193b5ccc21039810972c1363ec87e1d60dd5e95cffa62022c7e27d286c877f640469687990db8bee7a08ecee6b33"
+
+[update]
+[update.modrinth]
+mod-id = "qYnhCSW5"
+version = "UjtRhuCt"

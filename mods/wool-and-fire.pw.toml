@@ -1,0 +1,13 @@
+name = "Wool and Fire"
+filename = "wool_and_fire-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DknjYwOI/versions/AtRcsVTJ/wool_and_fire-1.0.jar"
+hash-format = "sha512"
+hash = "98b3d963b1a985c8104c8115526aec22815b8cb8d52040bc5ee0b4060c0ebae3f438bf18df5914f7547e132a5c1d964cfc8ef5d3600ac4a800c702a912978142"
+
+[update]
+[update.modrinth]
+mod-id = "DknjYwOI"
+version = "AtRcsVTJ"
