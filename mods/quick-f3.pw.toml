@@ -14,3 +14,4 @@ version = "rJnW2Fla"
 
 [option]
 optional = true
+description = "An overlay that shows the FPS and player coordinates in realtime."

@@ -70,11 +70,6 @@ hash = "e241c93cae38efcf834396fd1bc88be199c39674c84987cf592ca1f59a9dfd0e"
 metafile = true
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "220695895a8fd68ca82b7b3c34d8499b4f6ea73f6588e3dfbccd2307af0b924d"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "41e6890a099b1c7b9739b83b483833ff2509a164158b5f802778433b5a5f44f9"
 metafile = true
@@ -290,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/little-adventure.pw.toml"
-hash = "01d71b09a2dcfda9bc8edf2a8c911302324f3a34392c8361f2ac105fd5f52144"
+hash = "6b7dd147e7533fb0109b9cd79c546d3874a2af204dfe67b46ccd05fdb86c2e2c"
 metafile = true
 
 [[files]]
@@ -354,12 +349,12 @@ metafile = true
 
 [[files]]
 file = "mods/quick-f3.pw.toml"
-hash = "a50558a73f1d9c0654c498a46085ea3a7d1b6b9cc21e0c16c003a7e119d3d33e"
+hash = "7c2ed9dcf992ae59d3074ea291ae131854d5f2426f9befd57de53d4224461814"
 metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "c30abb741af8bcf3b29d000736aa2ae1730f0c551c17266e15b3c5c2183d0354"
+hash = "0ebcac819db1ea71488bc30ee57ab0c7f65b6e9395890f52120d8700cacc6286"
 metafile = true
 
 [[files]]
@@ -435,6 +430,16 @@ metafile = true
 [[files]]
 file = "mods/strawberrylib.pw.toml"
 hash = "ba64c195532e2fec51904ba717a06adf206be32c10ed7eebb0eb2efe07e9ca07"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "14d97284cd0c50566cf5f303a1ffdfe5081b4c01e87dd6edc0903f3cfdd2e2c9"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "5803e70ebe891c22dea6c5f75bf439e7eceb414a6f0737fa8d1d1c705338e9d0"
 metafile = true
 
 [[files]]

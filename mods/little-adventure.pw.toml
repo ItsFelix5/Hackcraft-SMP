@@ -3,11 +3,11 @@ filename = "littleadventure-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fPKwuUVC/versions/kn0CtJnp/littleadventure-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/fPKwuUVC/versions/Nn3m3EwV/littleadventure-1.0.0.jar"
 hash-format = "sha512"
-hash = "8dcaa03d65a8746f7c3638374c09c37d1d53bf52e802124636a0be83446f3c05dc11f4c3f22ff270c211020848e1f5178d4de8b935d36fd1f8cd5e279b2d2dff"
+hash = "f5dd846cfeefa6a7a818ecf13ba726e84e7b13d044eecdfca33c1730e72fd3feda3d60b606ab24eb1a19b5e09fcfc3aa8275613dd0daed481394bf99b4784220"
 
 [update]
 [update.modrinth]
 mod-id = "fPKwuUVC"
-version = "kn0CtJnp"
+version = "Nn3m3EwV"
