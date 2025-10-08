@@ -1,0 +1,13 @@
+name = "Shadow Chakra Jutsu"
+filename = "ShadowChakraJutsu-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P6D485Nd/versions/oD1FmH3T/ShadowChakraJutsu-1.1.jar"
+hash-format = "sha512"
+hash = "69d700837968ed95cab13a5c40b4acfbdc52ba08582386b066bcf302b9e9bff3a78affbdb43077fbf8447ab47218b5b48974e6566d0eae74fbf2138d7e391358"
+
+[update]
+[update.modrinth]
+mod-id = "P6D485Nd"
+version = "oD1FmH3T"

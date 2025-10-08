@@ -3,11 +3,11 @@ filename = "Create-6.0.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dKvj0eNn/versions/k3ngncHu/Create-6.0.7.jar"
+url = "https://cdn.modrinth.com/data/dKvj0eNn/versions/skgRwjDE/Create-6.0.7.jar"
 hash-format = "sha512"
-hash = "4783b2e163e394fdd6a95e7b439d71f2d0e90837b31d100802ac9550c43356b4b44e55540ba5c94c02c9c0da4c88a4b66f8507fc4e3fef27a1269a9a3d7d06be"
+hash = "e22c50be3e6c101c98312ca7bf3f002dcbcef356d5dc87280e03d12e6f733817d412719fcd1937c418fd932d94d4694e225a263d0220264154d2a46190447414"
 
 [update]
 [update.modrinth]
 mod-id = "dKvj0eNn"
-version = "k3ngncHu"
+version = "skgRwjDE"

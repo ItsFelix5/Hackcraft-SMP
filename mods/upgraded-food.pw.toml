@@ -1,6 +1,6 @@
 name = "Upgraded Food"
 filename = "upgraded_food_minecraft-1.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NIBfInI8/versions/XPCMzyCs/upgraded_food_minecraft-1.1.jar"

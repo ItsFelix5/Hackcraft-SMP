@@ -1,0 +1,13 @@
+name = "Drone Works"
+filename = "DroneWorks-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VgbNfzVD/versions/Mw17Ier3/DroneWorks-1.0.jar"
+hash-format = "sha512"
+hash = "f9f8a8623c3bf80ab4592b88909c4b4e2b705f91b961303ecce7b124257002dc9b48d5d3a20320e44c1b1ca9bf3842b6fb6c7877b37e2ee724f37e6923e052d7"
+
+[update]
+[update.modrinth]
+mod-id = "VgbNfzVD"
+version = "Mw17Ier3"

@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "01013db5d43a8e041bfb70f5f88d4940cc4a6eefd620577df20954bd0ab6004d"
+hash = "220695895a8fd68ca82b7b3c34d8499b4f6ea73f6588e3dfbccd2307af0b924d"
 metafile = true
 
 [[files]]
@@ -87,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "766ca968b5569cc0e7ac070d18e99ed5f2135f3e4f2e72cc4171e2a6b191f10d"
+metafile = true
+
+[[files]]
+file = "mods/bettercreaking.pw.toml"
+hash = "2b8c83adda178bad7bcf2e9c160797f724714e9acda5c8e348f7283d4d7c62fb"
 metafile = true
 
 [[files]]
@@ -125,7 +130,7 @@ hash = "893c37b91ddb84ffc56a12a89d5d0e16b0366fc4110a2c1b30a9abb6a333896e"
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "541e364f570cfbaadcc177073cb085efe8a050ae2c08ae8529762ba81601041e"
+hash = "56fc22a9f3dc3eb2aa598aad649071f84c43c17d8618a39f52aede94d29c0a1f"
 metafile = true
 
 [[files]]
@@ -140,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fly.pw.toml"
-hash = "16c8fbd34a56eab5ec4fd000b5796ab984d64eb7b1befbc9e8fe56c67555ce1b"
+hash = "33b14761fa474ca5666aee6a80669cce0a5417115155dc54ba7cd110f0772d28"
 metafile = true
 
 [[files]]
@@ -151,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/divingpack.pw.toml"
 hash = "a1e86311cc654aa7a2a31ea2d80378f207878dd1b29b820403efbc473136b9fe"
+metafile = true
+
+[[files]]
+file = "mods/drone-works.pw.toml"
+hash = "62270fb9e6a46a1c5b4e985500cdd5efc44a69c494bd4ff36c4d0032250543e6"
 metafile = true
 
 [[files]]
@@ -239,6 +249,11 @@ hash = "7a69784c5058688cc6d9b12e394a34987da7cc2963e1f5a6d11557f01677a182"
 metafile = true
 
 [[files]]
+file = "mods/heavier-horizons.pw.toml"
+hash = "2c581c282dbda495cedfcfb18e00a8067279f52a117ad074986f7d1351bf6f60"
+metafile = true
+
+[[files]]
 file = "mods/horsegadgets.pw.toml"
 hash = "7ec1c9e5c121097b556ffeebab007f26a1f02edfd987b16ceb49076370d1a0de"
 metafile = true
@@ -255,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9956538040762161a154ff7b3e462703c2ae42f40be16a8624f75afc4a85338b"
+hash = "31317b23606dc75752cd2c8994db3b750c1cb33517c6e02670887c345ff6226d"
 metafile = true
 
 [[files]]
@@ -285,8 +300,12 @@ metafile = true
 
 [[files]]
 file = "mods/medicines-and-maladies.pw.toml"
-hash = "2b3660878968554325c5f73f10b297539ef4f08ccfe6837ff791f3c4eedec29a"
+hash = "ffa9f69f71c39443b46b32be7551376ac684272563c298069c2cb6f54b13cadc"
 metafile = true
+
+[[files]]
+file = "mods/modernfix-fabric-5.20.4-beta.54+mc1.21.8.c05a.jar"
+hash = "09db495c7031be8d5e34242cb188bf569469eba5a23fa70bf66a4c07d7f98a07"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -320,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/pneumono_core.pw.toml"
-hash = "1773acaaaeb852f52f892672dde9a3b09b72d029600caf4f5e7037716c61415c"
+hash = "397d670198d8920d31f23ec629f8088e96a9b4a01aa61f7cb27b7124a046d584"
 metafile = true
 
 [[files]]
@@ -335,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-f3.pw.toml"
-hash = "3dbaf7f59c48c81ebd6d2b7604b4560f65c445a0e17fba3096380a9f50aea91a"
+hash = "a50558a73f1d9c0654c498a46085ea3a7d1b6b9cc21e0c16c003a7e119d3d33e"
 metafile = true
 
 [[files]]
@@ -374,6 +393,11 @@ hash = "4f25b7f9be48460961100d0d872cf010486c751f3260095697e123118b548ec8"
 metafile = true
 
 [[files]]
+file = "mods/shadow-chakra-jutsu.pw.toml"
+hash = "c56b43f77742484e17f280f6b1e6331776b4f86780f85ce11a3ea5d6f2b1e6c5"
+metafile = true
+
+[[files]]
 file = "mods/shooting-stars.pw.toml"
 hash = "f2169c6041e175066261920248681cc7d73af4fd090040e4e0556fdb87951ab1"
 metafile = true
@@ -385,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "75450d4d7139edebd35377d96e7267c777d53faf9f11d46f48c10044308336b0"
+hash = "e8a5c38beeccba1b68fd843acc8ab7b5166da5874ec721375e3296916af7f4f5"
 metafile = true
 
 [[files]]
@@ -415,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "4875fd101e678cdc5d71e6bda6bfb7d60b0d0b7683f6d9f704ebfcfac9ccb0a5"
+hash = "e60e7e2ab30499196b6e30c9250380a11e4507641ecd9bd1dbd9ab2c072f0ada"
 metafile = true
 
 [[files]]
@@ -430,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/upgraded-food.pw.toml"
-hash = "6650b414ff8a2fa8517c33cc9d27d97f030b710e2b452c1951d0a2e3e45bd43f"
+hash = "9c66ee8b2805e874ca2febd25d210190e51973093772fc3da3e35cec51b381f4"
 metafile = true
 
 [[files]]
@@ -470,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "72ddbc276a2fd7aca5443c0501a59ec96d0d6090917a99a30dc71abd0dd3785d"
+hash = "d72a8ffcacdd19e6d71eccb4b112cf763bf75b2c438506e01ab0aa76e91c6325"
 metafile = true
 
 [[files]]

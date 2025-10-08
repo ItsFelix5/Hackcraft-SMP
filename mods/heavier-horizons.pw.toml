@@ -1,0 +1,13 @@
+name = "Heavier Horizons"
+filename = "heavierhorizons-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OBWW62Ib/versions/AQIfA0jW/heavierhorizons-1.1.jar"
+hash-format = "sha512"
+hash = "093627df61278580b22a6c3a3141b3bf90219f4235c880480dd9fb156d6ae724634dd7c398a6d2f72385196ea36080ed8973a94c64bd145654831173b5b6ffe1"
+
+[update]
+[update.modrinth]
+mod-id = "OBWW62Ib"
+version = "AQIfA0jW"
