@@ -3,11 +3,11 @@ filename = "BetterCreaking-1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/K6fXbiEQ/versions/bHY2t5Mx/BetterCreaking-1.0.jar"
+url = "https://cdn.modrinth.com/data/K6fXbiEQ/versions/fmfhjdeX/BetterCreaking-1.0.jar"
 hash-format = "sha512"
-hash = "026350bfd44ffade3f477c3ff51b10a2f29c9b72143545246bc52d6e1448101907cfa237d3157236fedee334df9fa6b6e42376a233526d897e891e6c94fc68fa"
+hash = "182dff1ce56f6dcf72850c5e44ab8fd035d3dc127942f72aa3f9a9d498d66feaaa325b8a0745efc1c5f2f86a77635fdbf31cc39921a120cf5d47ec633a03557e"
 
 [update]
 [update.modrinth]
 mod-id = "K6fXbiEQ"
-version = "bHY2t5Mx"
+version = "fmfhjdeX"

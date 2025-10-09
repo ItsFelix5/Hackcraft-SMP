@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettercreaking.pw.toml"
-hash = "2b8c83adda178bad7bcf2e9c160797f724714e9acda5c8e348f7283d4d7c62fb"
+hash = "2b38763491aea6fd16f6eed03bd79f0307cfcdaaec3631eecf86e0d6c0c819d4"
 metafile = true
 
 [[files]]
