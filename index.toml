@@ -13,6 +13,10 @@ file = "config/gravestones.json"
 hash = "a6e1aa27c3f0abc8468c9c5b132774604b17eaa39e08f74abe65bfc20cb6af23"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "69579b3fe9988913fe09bf1969822bfb0bd198373a9b493645e3a348454c8daa"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "3c0ea73e89c7118ac6c74a783662c876f8998649db51f6ce0a60fb4b5c2ca693"
 
@@ -26,7 +30,7 @@ hash = "b652ce75a0649d891aaa8351fb212801b8a15b701545760187032dfac24c00b9"
 
 [[files]]
 file = "config/stfu.json5"
-hash = "d7ee41ed7e260ecc9d8bd8d08b4d9ea1a3dded3ac93b351bf8b524b2d70e3fad"
+hash = "20670dae3b2401130f0215e06f92b804d2da693d3ad132c6044750b4605a7459"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -71,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "41e6890a099b1c7b9739b83b483833ff2509a164158b5f802778433b5a5f44f9"
+hash = "e15eb47019c1372379817862e66999aa3eb4dedc5661fae902147b15201c8054"
 metafile = true
 
 [[files]]
@@ -399,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/shuttfup.pw.toml"
-hash = "bf78f4a4580011c79dff65c700a738cff0e786a6111e3251fc1c8f0cad230509"
+hash = "5b3dc8949b92fc2fd157c4fb6fd637d0e20f534e26501ff7aef78f14853adb50"
 metafile = true
 
 [[files]]
@@ -514,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c2999130bc09fe486002cbd5751f51d0b1ec5251819f807647581046060ac9e8"
+hash = "17976cb878fc7768dd59557b286ef0c1be5504333ae4599c2de67b5718964b2f"
 
 [[files]]
 file = "servers.dat"
