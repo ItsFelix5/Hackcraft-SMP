@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "083159c7473bec5b121a8b3f7dfa9ae94fbf8030e238f915f6bb38c837daf981"
+
+[[files]]
 file = "config/cameratweaks.json5"
 hash = "0a1ab061395b189709c00a9bf8b671dc04abf5c9847ad51a862b010f57dc47fa"
 
@@ -31,6 +35,10 @@ hash = "b652ce75a0649d891aaa8351fb212801b8a15b701545760187032dfac24c00b9"
 [[files]]
 file = "config/stfu.json5"
 hash = "20670dae3b2401130f0215e06f92b804d2da693d3ad132c6044750b4605a7459"
+
+[[files]]
+file = "config/styled-nicknames.json"
+hash = "f3712c10625c55af7f423adb59ff44c2b8543279b59180fe6b8dcfa509295c02"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -264,12 +272,12 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "d0cc2fd4bad0aab72bb262161cd4efca30e4d51e4a286983faa23383a6cefbaa"
+hash = "fe4579562bf41feeecce518a5daa834dbe3af5f4dbe4ba3faf93a3f69a6992da"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "31317b23606dc75752cd2c8994db3b750c1cb33517c6e02670887c345ff6226d"
+hash = "8d40436970d9adcfe3c0b72c9f0cd1af217948469b091b0f07ca3df187ce2e61"
 metafile = true
 
 [[files]]
@@ -343,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/pneumono_gravestones.pw.toml"
-hash = "1984f17519004cf5a2cf5a3d29dad9e82b1fda6d878f6d15f969c4e6a68f4bf9"
+hash = "355e8c1ce869f17427ed9829ce281fa4074b6013a4e96fec0779439054e53c91"
 metafile = true
 
 [[files]]
@@ -387,6 +395,11 @@ hash = "0bdb14d12c298ab3a115ba719c6a6ee294bcfb97ed12efe53dd1ef753efc82d4"
 metafile = true
 
 [[files]]
+file = "mods/scribble.pw.toml"
+hash = "d4e18dbf6a81848514504da893f956b947f398a29cca0b90a869f8decd7f77d4"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "4f25b7f9be48460961100d0d872cf010486c751f3260095697e123118b548ec8"
 metafile = true
@@ -418,17 +431,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "2edb9b80b26d7f7d2f3b2edc82a33838906e6be25382aeaf186fbb25dc07e4f8"
+hash = "780646258386fccb6c92851e13dfb32b5d85cae9596ce6c829894b179245e64c"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "a6948eb25808d55a8dc3b9a64999181ebae738c3679ced2981c7c1ec34b9b0b6"
-metafile = true
-
-[[files]]
-file = "mods/stendhal.pw.toml"
-hash = "d723836984d883722b90aad252f68099ad6a1114a30034b377c56ea0ee1e275e"
 metafile = true
 
 [[files]]

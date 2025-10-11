@@ -1,13 +1,13 @@
 name = "Gravestones"
-filename = "gravestones-1.1.8+1.21.8.jar"
+filename = "gravestones-1.2.1+1.21.8+A.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Heh3BbSv/versions/criOSmC6/gravestones-1.1.8%2B1.21.8.jar"
+url = "https://cdn.modrinth.com/data/Heh3BbSv/versions/56LRd8G2/gravestones-1.2.1%2B1.21.8%2BA.jar"
 hash-format = "sha512"
-hash = "c9077fef7b6b399864172de63e760c95d2b8f248776934c51af663b8e2f879c23491694e86ad8e654f502cb391d323ebd680149bbb5f2401ba03bb6d6e93f0a4"
+hash = "acf3e25d0273646eb76e325357befd4970739b67484acd9d8d6a0e97c8f7461ce0691e6e5d53d15e890a02faf950bbd230ebe343d5414547cca8cc8d20ca10c2"
 
 [update]
 [update.modrinth]
 mod-id = "Heh3BbSv"
-version = "criOSmC6"
+version = "56LRd8G2"
