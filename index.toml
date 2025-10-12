@@ -45,18 +45,6 @@ file = "config/xaerominimap.txt"
 hash = "9f4afef6c3307c3b418d9b897b912c7cbd33eacbceafd3a78c5f1abafc77f4b8"
 
 [[files]]
-file = "datapacks/EnchantingTableAdder/data/minecraft/tags/enchantment/non_treasure.json"
-hash = "b3b4b8aeb49c46d5194c88e51cbb3b95614d57c423a71f627a73b384bded4001"
-
-[[files]]
-file = "datapacks/EnchantingTableAdder/data/minecraft/tags/enchantment/treasure.json"
-hash = "10446d9c574f2886e8950e1950c7631d08eafed8b3faa45a2a6ce59d33081e63"
-
-[[files]]
-file = "datapacks/EnchantingTableAdder/pack.mcmeta"
-hash = "a5c86b2b2cab6c93d5d479159633097ffeee9c5395a8be4655de0e3f9f1a7b63"
-
-[[files]]
 file = "mods/a.b.e.-forgery.pw.toml"
 hash = "4155f5dc3e39acb05bef01925da8fc268d9cb984bf38284609a929f334ae1ce4"
 metafile = true
@@ -157,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "759030c892c5798d6e26d4d414532182959cb4c592ac62e1ca109394cc1bd9ed"
+hash = "192fcf50ff44dee01b4053041667a779b8998d5f31425e2fb18d1a990d81d456"
 metafile = true
 
 [[files]]
