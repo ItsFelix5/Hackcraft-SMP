@@ -139,6 +139,11 @@ hash = "b65a6727557ee54850f59756b2b9bdbb795e6ae62c55b8f04c45317af58ba637"
 metafile = true
 
 [[files]]
+file = "mods/cool-shades.pw.toml"
+hash = "ef73ed993d5b135f835607788e91e12ef87032e5dddc753a85ee6d720de48796"
+metafile = true
+
+[[files]]
 file = "mods/create-fly.pw.toml"
 hash = "33b14761fa474ca5666aee6a80669cce0a5417115155dc54ba7cd110f0772d28"
 metafile = true
@@ -345,6 +350,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "d47c73ae52d88b862864a9d8387c93cbeffe2513abff18c3c3c3c450eb4cbdd2"
+metafile = true
+
+[[files]]
+file = "mods/questmod.pw.toml"
+hash = "50f391e33e84a80be7b97d81e2268eafd67fc3b228abee4607378f178511458f"
 metafile = true
 
 [[files]]

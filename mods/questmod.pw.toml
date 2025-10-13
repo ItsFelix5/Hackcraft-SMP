@@ -1,0 +1,13 @@
+name = "QuestMod"
+filename = "questmod-0.9.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PtOqfIO3/versions/3oNYu6xo/questmod-0.9.1.jar"
+hash-format = "sha512"
+hash = "e9b1962a3604f36f4f0ac06286b4690ec0bb03a7283c86db1745456d9968292f3cb79da4610bd5a3977a40cfa34c9289c37f41a699312fbee2c60c5373bac1ba"
+
+[update]
+[update.modrinth]
+mod-id = "PtOqfIO3"
+version = "3oNYu6xo"

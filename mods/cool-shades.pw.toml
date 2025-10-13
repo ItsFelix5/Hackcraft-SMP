@@ -1,0 +1,13 @@
+name = "Shades"
+filename = "shades-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7keMvGRy/versions/Sej2J9gT/shades-1.0-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "8bccb4ebabe02c1731180dba90c902aa5f0bc7bf41c297386d2daeb55845bf32885e1fafb289688f68ec1996eb79df4ab82105c60b0ba20d34cfd0c5cba781cf"
+
+[update]
+[update.modrinth]
+mod-id = "7keMvGRy"
+version = "Sej2J9gT"
