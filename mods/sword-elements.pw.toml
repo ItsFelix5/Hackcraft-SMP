@@ -1,0 +1,13 @@
+name = "Sword elements"
+filename = "sword_elements-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AiUQrzFj/versions/snKnO9i7/sword_elements-1.0.jar"
+hash-format = "sha512"
+hash = "71f489e6da08ee3420d0ca49847fb6c73e4b37877d5cab95c30185f517ad4ca2c1fa37cddc74ba8c2b310322e6eb3e85eed2554263fe82399e1845bb95a3a87a"
+
+[update]
+[update.modrinth]
+mod-id = "AiUQrzFj"
+version = "snKnO9i7"

@@ -145,12 +145,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-fly.pw.toml"
-hash = "33b14761fa474ca5666aee6a80669cce0a5417115155dc54ba7cd110f0772d28"
+hash = "1cadf29d86e7cbaea7b824b70e3353469df7c4187fce46165ee06694b939382d"
 metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "192fcf50ff44dee01b4053041667a779b8998d5f31425e2fb18d1a990d81d456"
+hash = "547fcb6481c2cf682b9de98f0a719d27f0ba896d7b06076f2135f2abd470aea6"
 metafile = true
 
 [[files]]
@@ -195,12 +195,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "dff937930734d00e3cd2c644d20d5015df3ad53cc9d23fae2704326774cadbad"
+hash = "f4803f468da3dc0c469bed07e4fbac01377a8f0fe7646a08f92271e23aa96175"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "89bd18325ea4e74dd81f9c70ed2105a070d40a109bd78ae74542fa1a3935908f"
+hash = "dae294bc7e60c5052b3c705bc15e4b2ebc1af7465e294c4f9824a4b63719475b"
 metafile = true
 
 [[files]]
@@ -235,12 +235,17 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "6b49186e857af19c5a91a888b65fa265f837a0a252ad8410d6abea6824e3a3cc"
+hash = "0f5ec6111d99166d93989d215296af11789203151ba30b7e19fe344f6c884ca3"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "364288dc3923f02c34b1affd304cc28b6bcf2992678a80101c4d9ac95a0ea02f"
+metafile = true
+
+[[files]]
+file = "mods/get-ricked.pw.toml"
+hash = "b5d1e7459e6da22dc3296d18c39de1b7d70e4d668aa82b7cf81ebf733fd67712"
 metafile = true
 
 [[files]]
@@ -333,6 +338,11 @@ hash = "2136f16359eb5cf778cf9783cfbc80d4c1ccb97042ef8c114f1d47939a2e8f2b"
 metafile = true
 
 [[files]]
+file = "mods/passivearmor.pw.toml"
+hash = "730168cdb81871c2aa00695e5645520c0e30f7470556f8288dd5cc2d5ff4fd4f"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "0993352e081593fca386a8a4e6473ece541a27e018c8384239f27f79d73133a0"
 metafile = true
@@ -419,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e8a5c38beeccba1b68fd843acc8ab7b5166da5874ec721375e3296916af7f4f5"
+hash = "1a0481b1f8bd7f92cc6095794da36f0a7de9133b48a8cccb196ac35809b4dceb"
 metafile = true
 
 [[files]]
@@ -438,6 +448,11 @@ hash = "a6948eb25808d55a8dc3b9a64999181ebae738c3679ced2981c7c1ec34b9b0b6"
 metafile = true
 
 [[files]]
+file = "mods/spectral-pals.pw.toml"
+hash = "46f2b28fdda63bfc2051695cafe6e74e69389b9e56a14015e3d62ddfafe4a6d6"
+metafile = true
+
+[[files]]
 file = "mods/strawberrylib.pw.toml"
 hash = "ba64c195532e2fec51904ba717a06adf206be32c10ed7eebb0eb2efe07e9ca07"
 metafile = true
@@ -453,8 +468,13 @@ hash = "5803e70ebe891c22dea6c5f75bf439e7eceb414a6f0737fa8d1d1c705338e9d0"
 metafile = true
 
 [[files]]
+file = "mods/sword-elements.pw.toml"
+hash = "7766cd9d81dccaa3e560ebfb1cc5f3736de9db3ae9bd0d406f53bd07da901c63"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
-hash = "e60e7e2ab30499196b6e30c9250380a11e4507641ecd9bd1dbd9ab2c072f0ada"
+hash = "831c41448bccb5bb8f1f68a76321e7da7988b218e9694f432d952f98ac184640"
 metafile = true
 
 [[files]]

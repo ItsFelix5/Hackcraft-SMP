@@ -1,0 +1,13 @@
+name = "Get Ricked"
+filename = "get-ricked-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cTFnH8Zy/versions/KwBgE7vU/get-ricked-0.1.jar"
+hash-format = "sha512"
+hash = "440b5700e7e7ba2dfbdc307a3ded4b87ae9e4b3ada27be5434b19353d1386f8eb42322b349b920a11dfc9b3f01a915ee86f6c6a02fb62dcac489c1515d2c255e"
+
+[update]
+[update.modrinth]
+mod-id = "cTFnH8Zy"
+version = "KwBgE7vU"

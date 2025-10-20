@@ -1,0 +1,13 @@
+name = "Passive Armor"
+filename = "PassiveArmor-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hucoNDUN/versions/nIOGOCko/PassiveArmor-1.0.jar"
+hash-format = "sha512"
+hash = "59cd1ad38ac6674af0a9956f5d0c23cd449679606f4bf8a5488cb1dd3fa7f4a99e9b26e326e75035c626858fcfc5df8a9887b88a0da88a9114afcfd30f62d7a0"
+
+[update]
+[update.modrinth]
+mod-id = "hucoNDUN"
+version = "nIOGOCko"
