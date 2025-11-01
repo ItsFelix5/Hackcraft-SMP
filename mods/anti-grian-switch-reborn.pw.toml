@@ -1,0 +1,13 @@
+name = "Anti Grian Switch Reborn"
+filename = "anti-grian-switch-reborn-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jB0vRqf3/versions/ZEapFKI6/anti-grian-switch-reborn-1.0.0.jar"
+hash-format = "sha512"
+hash = "7f58d2a780e77cc63a9b9fa1577acc773d35df0591591d61367c2bd79dc851cfa6913b90382cdfdb0176cbd09e39f1ba6fade32447cec5c1db455ac15373e45e"
+
+[update]
+[update.modrinth]
+mod-id = "jB0vRqf3"
+version = "ZEapFKI6"

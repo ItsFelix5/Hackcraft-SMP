@@ -1,13 +1,13 @@
 name = "Passive Armor"
-filename = "PassiveArmor-1.0.jar"
+filename = "PassiveArmor-Fabric-1.21.8-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hucoNDUN/versions/nIOGOCko/PassiveArmor-1.0.jar"
+url = "https://cdn.modrinth.com/data/hucoNDUN/versions/7bP4tStk/PassiveArmor-Fabric-1.21.8-1.0.1.jar"
 hash-format = "sha512"
-hash = "59cd1ad38ac6674af0a9956f5d0c23cd449679606f4bf8a5488cb1dd3fa7f4a99e9b26e326e75035c626858fcfc5df8a9887b88a0da88a9114afcfd30f62d7a0"
+hash = "a4948b751098d0dda44547a0b4792b120a3421c668f1e0418abdfaa0208ab3f8338c2b7d71fd0f5262f7445dd19dab8a15e0fb5095de8ffcb4177c423122a47e"
 
 [update]
 [update.modrinth]
 mod-id = "hucoNDUN"
-version = "nIOGOCko"
+version = "7bP4tStk"

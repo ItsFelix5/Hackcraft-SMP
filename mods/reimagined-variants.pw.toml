@@ -1,13 +1,13 @@
 name = "Reimagined Variants"
-filename = "Reimagined Variants 1.0.1.jar"
+filename = "Reimagined Variants 1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aU3Ez7vp/versions/TWiqDIPn/Reimagined%20Variants%201.0.1.jar"
+url = "https://cdn.modrinth.com/data/aU3Ez7vp/versions/L3wSaZPl/Reimagined%20Variants%201.0.2.jar"
 hash-format = "sha512"
-hash = "60ca6c87ef078d4e38426baffdb4e56c3c49719b7648370e89cc3e7afd191ef02d8ece5c16b37882537485e65d43c848e36090bf21776351046664b014453aba"
+hash = "639c8b0e9c13b2339884b68c30557e767c1d63158bbc8b3c64d7f1e8706a33c8884a849690a3168cf86d54df458bfc1fd76a597df038c9b46a99ba1d50f5b075"
 
 [update]
 [update.modrinth]
 mod-id = "aU3Ez7vp"
-version = "TWiqDIPn"
+version = "L3wSaZPl"

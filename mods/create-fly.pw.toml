@@ -1,13 +1,13 @@
 name = "Create Fly"
-filename = "create-1.21.8-6.0.7-17.jar"
+filename = "create-1.21.8-6.0.7-19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dKvj0eNn/versions/9PNersCd/create-1.21.8-6.0.7-17.jar"
+url = "https://cdn.modrinth.com/data/dKvj0eNn/versions/vzU4db2X/create-1.21.8-6.0.7-19.jar"
 hash-format = "sha512"
-hash = "cfabfcc49c078eebcecf88cac543cbcf8e25f34f76aacd39f5dcfc3f8f5779befa2b3249abe9a012ee9a758136cb154dcafe3c38077d5d2679270363a4fa962b"
+hash = "c5a34a43160c3b27545c14189971b79b6e4232eea44be319710b633093d9501eca5942cc4dd69d7048102cafe264716798f222123c2305581fcd498ed6104207"
 
 [update]
 [update.modrinth]
 mod-id = "dKvj0eNn"
-version = "9PNersCd"
+version = "vzU4db2X"
