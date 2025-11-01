@@ -343,11 +343,6 @@ hash = "2136f16359eb5cf778cf9783cfbc80d4c1ccb97042ef8c114f1d47939a2e8f2b"
 metafile = true
 
 [[files]]
-file = "mods/passivearmor.pw.toml"
-hash = "c460541987ad61a8e5c44e08ee894bb751033160712213260e1c9138a5dcda55"
-metafile = true
-
-[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "0993352e081593fca386a8a4e6473ece541a27e018c8384239f27f79d73133a0"
 metafile = true
